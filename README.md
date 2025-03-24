@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://github.com/SudiptaPaul-31"><img src="https://img.shields.io/badge/EXPLORATION_TEAM-212121?style=for-the-badge" alt="EXPLORATION TEAM"></a>
   <a href="https://t.me/bitcoinwildlife"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"></a>
-  <a href="https://twitter.com/bitcoinwildlife"><img src="https://img.shields.io/badge/BITCOINWILDLIFE-F7931A?style=for-the-badge&logo=x&logoColor=white" alt="BITCOINWILDLIFE"></a>
 </p>
 
 ## Overview
